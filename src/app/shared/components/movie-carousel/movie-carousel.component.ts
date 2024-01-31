@@ -5,7 +5,7 @@ import { DescriptionPipe } from '../../pipes/description.pipe';
 import { IVideoContent } from '../../models/video-content.interface';
 import { animate, style, transition, trigger } from '@angular/animations';
 // import { SwiperModule } from 'swiper/angular';
-import '~swiper/scss';
+// import 'swiper/scss';
 
 @Component({
   selector: 'app-movie-carousel',
